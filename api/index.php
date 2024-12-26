@@ -111,8 +111,6 @@
     background-color: rgb(205, 199, 199);
     height: 500px;
     margin-top: 50px;
-    margin-left: 30px;
-    margin-right: 30px;
     border-radius: 15px;
 }
 
@@ -174,8 +172,6 @@
     background-color: rgb(12, 10, 114);
     height:fit-content;
     margin-top: 50px;
-    margin-left: 30px;
-    margin-right: 30px;
     border-radius: 15px;
     font-size: 18px;
     padding: 10px;
